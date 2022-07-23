@@ -28,4 +28,7 @@ https://github.com/SonderXiaoming/autohelp
 2. 固定主题指令
 
 3. 分群安装主题
+
 4. 赛马娘底图和运势文本补充（hoshino群文件里文本怎么只整到21，后面是弃坑了？）
+
+5. 更多主题
