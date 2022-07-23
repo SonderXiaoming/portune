@@ -6,6 +6,12 @@ Portune是一个适用于[HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot) v
 
 ~~抄袭~~仿一个群友(明见？)的[bot](https://help.pcrlink.cn/instructions/fortune/)(可以去买来玩玩，很多功能蛮有意思的)艹，真喜欢他的碧蓝航线底图，可惜没找到，可能自己搞得？
 
+### ★ 如果你喜欢的话，请给仓库点一个star支持一下23333 ★
+
+## 本项目地址：
+
+https://github.com/SonderXiaoming/autohelp
+
 ## 安装方法：
 
 - 将`portune`文件夹复制到`hoshino\modules`文件夹下（原来有就删了他）；
