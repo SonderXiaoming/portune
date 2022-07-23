@@ -10,7 +10,7 @@ Portune是一个适用于[HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot) v
 
 ## 本项目地址：
 
-https://github.com/SonderXiaoming/autohelp
+[https://github.com/SonderXiaoming/portune](https://github.com/SonderXiaoming/portune)
 
 ## 安装方法：
 
