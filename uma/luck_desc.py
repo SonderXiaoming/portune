@@ -355,7 +355,7 @@ luck_desc = [
         ]
     },
     {
-        "charaid": ["11","31"],
+        "charaid": ["11"],
         "_name": "目白麦昆",
         "type": [
             {
